@@ -18,7 +18,7 @@ public class NumberString {
 			number1= value1.nextInt();
 			System.out.println("Enter another number:");
 			Scanner value2= new Scanner(System.in);
-			number2= value2.nextInt();
+			//number2= value2.nextInt();
 			if (number1==number2)
 		  	{
 		  		System.out.println("The numbers are equal");
